@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Maria Anthony",
+      "email": "maria.anthony@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Yokesh V",
+      "email": "yokesh.v@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Priya Ramesh",
+      "email": "priya.ramesh@example.com"
+    },
+    {
+      "id": "5",
+      "name": "David Mathew",
+      "email": "david.mathew@example.com"
+    },
+    {
+      "id": "6",
+      "name": "Sneha Raj",
+      "email": "sneha.raj@example.com"
+    },
+    {
+      "id": "7",
+      "name": "Karthik Iyer",
+      "email": "karthik.iyer@example.com"
+    },
+    {
+      "id": "8",
+      "name": "Aisha Khan",
+      "email": "aisha.khan@example.com"
+    },
+    {
+      "id": "9",
+      "name": "Vivek Nair",
+      "email": "vivek.nair@example.com"
+    },
+    {
+      "id": "10",
+      "name": "Ritika Das",
+      "email": "ritika.das@example.com"
+    },
+    {
+      "id": "11",
+      "name": "Mariappan",
+      "email": "Mariappan@example.com"
+    }
+  ]
+}
