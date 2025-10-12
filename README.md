@@ -644,8 +644,8 @@ in the Software without restriction...
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Yokes4)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/Yokes4.
+- LinkedIn: https://linkedin.com/in/yourprofile.
 - Email: mariaanthonyyokeshv6564@example.com
 - Portfolio: [yourwebsite.com](https://maria-anthony-yokesh.netlify.app/)
 
